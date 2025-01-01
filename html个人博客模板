@@ -13,7 +13,7 @@
             padding: 0;
             background-image: url('leaf-pattern.png'); /* 假设有一个名为leaf-pattern.png的植物图案背景 */
             background-repeat: repeat;
-            overflow-x: hidden; /* 防止内容水平滚动 */
+            overflow-x: hidden; 
         }
         .container {
             width: 80%;
